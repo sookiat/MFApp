@@ -25,6 +25,7 @@
 		82B6799418EE796300F7A003 /* CCTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799318EE796300F7A003 /* CCTableViewController.m */; };
 		82B6799718EE7A1200F7A003 /* CCTableViewController2222.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799618EE7A1200F7A003 /* CCTableViewController2222.m */; };
 		82B6799A18EE7A8E00F7A003 /* CCTableViewController33333.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799918EE7A8E00F7A003 /* CCTableViewController33333.m */; };
+		82B6799D18EE7AEE00F7A003 /* CCTableViewControllerBr1.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799C18EE7AEE00F7A003 /* CCTableViewControllerBr1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,8 @@
 		82B6799618EE7A1200F7A003 /* CCTableViewController2222.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTableViewController2222.m; sourceTree = "<group>"; };
 		82B6799818EE7A8E00F7A003 /* CCTableViewController33333.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTableViewController33333.h; sourceTree = "<group>"; };
 		82B6799918EE7A8E00F7A003 /* CCTableViewController33333.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTableViewController33333.m; sourceTree = "<group>"; };
+		82B6799B18EE7AEE00F7A003 /* CCTableViewControllerBr1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTableViewControllerBr1.h; sourceTree = "<group>"; };
+		82B6799C18EE7AEE00F7A003 /* CCTableViewControllerBr1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTableViewControllerBr1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +135,8 @@
 				82B6799618EE7A1200F7A003 /* CCTableViewController2222.m */,
 				82B6799818EE7A8E00F7A003 /* CCTableViewController33333.h */,
 				82B6799918EE7A8E00F7A003 /* CCTableViewController33333.m */,
+				82B6799B18EE7AEE00F7A003 /* CCTableViewControllerBr1.h */,
+				82B6799C18EE7AEE00F7A003 /* CCTableViewControllerBr1.m */,
 				82474C1A18CA957600BD291C /* CCViewController.h */,
 				82474C1B18CA957600BD291C /* CCViewController.m */,
 				82474C1D18CA957600BD291C /* Images.xcassets */,
@@ -272,6 +277,7 @@
 				82474C1618CA957600BD291C /* CCAppDelegate.m in Sources */,
 				82474C1218CA957600BD291C /* main.m in Sources */,
 				82B6799718EE7A1200F7A003 /* CCTableViewController2222.m in Sources */,
+				82B6799D18EE7AEE00F7A003 /* CCTableViewControllerBr1.m in Sources */,
 				82B6799A18EE7A8E00F7A003 /* CCTableViewController33333.m in Sources */,
 				82474C1C18CA957600BD291C /* CCViewController.m in Sources */,
 				82B6799418EE796300F7A003 /* CCTableViewController.m in Sources */,

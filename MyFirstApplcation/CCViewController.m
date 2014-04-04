@@ -26,4 +26,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)buttonPressed:(UIButton *)sender
+{
+    self.titleLabel.text = self.textField.text;
+    [self.textField resignFirstResponder]; //close keyboard!
+}
+
 @end

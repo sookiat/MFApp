@@ -21,6 +21,7 @@
 		82474C2718CA957600BD291C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82474C0918CA957600BD291C /* UIKit.framework */; };
 		82474C2F18CA957600BD291C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 82474C2D18CA957600BD291C /* InfoPlist.strings */; };
 		82474C3118CA957600BD291C /* MyFirstApplcationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82474C3018CA957600BD291C /* MyFirstApplcationTests.m */; };
+		82474C3B18CA9EC900BD291C /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 82474C3A18CA9EC900BD291C /* images-2.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		82474C2C18CA957600BD291C /* MyFirstApplcationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyFirstApplcationTests-Info.plist"; sourceTree = "<group>"; };
 		82474C2E18CA957600BD291C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		82474C3018CA957600BD291C /* MyFirstApplcationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplcationTests.m; sourceTree = "<group>"; };
+		82474C3A18CA9EC900BD291C /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		82474C0C18CA957600BD291C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				82474C3A18CA9EC900BD291C /* images-2.jpeg */,
 				82474C0D18CA957600BD291C /* MyFirstApplcation-Info.plist */,
 				82474C0E18CA957600BD291C /* InfoPlist.strings */,
 				82474C1118CA957600BD291C /* main.m */,
@@ -231,6 +234,7 @@
 			files = (
 				82474C1E18CA957600BD291C /* Images.xcassets in Resources */,
 				82474C1018CA957600BD291C /* InfoPlist.strings in Resources */,
+				82474C3B18CA9EC900BD291C /* images-2.jpeg in Resources */,
 				82474C1918CA957600BD291C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

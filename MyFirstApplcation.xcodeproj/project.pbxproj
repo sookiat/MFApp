@@ -27,6 +27,7 @@
 		82B6799A18EE7A8E00F7A003 /* CCTableViewController33333.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799918EE7A8E00F7A003 /* CCTableViewController33333.m */; };
 		82B6799D18EE7AEE00F7A003 /* CCTableViewControllerBr1.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799C18EE7AEE00F7A003 /* CCTableViewControllerBr1.m */; };
 		82B679A018EE7BB500F7A003 /* CCTableViewControllerbr2.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799F18EE7BB500F7A003 /* CCTableViewControllerbr2.m */; };
+		82B679A318EE7DAF00F7A003 /* TableViewControllerb2.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B679A218EE7DAF00F7A003 /* TableViewControllerb2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,8 @@
 		82B6799C18EE7AEE00F7A003 /* CCTableViewControllerBr1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTableViewControllerBr1.m; sourceTree = "<group>"; };
 		82B6799E18EE7BB500F7A003 /* CCTableViewControllerbr2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTableViewControllerbr2.h; sourceTree = "<group>"; };
 		82B6799F18EE7BB500F7A003 /* CCTableViewControllerbr2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTableViewControllerbr2.m; sourceTree = "<group>"; };
+		82B679A118EE7DAF00F7A003 /* TableViewControllerb2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControllerb2.h; sourceTree = "<group>"; };
+		82B679A218EE7DAF00F7A003 /* TableViewControllerb2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewControllerb2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 		82474BF918CA957600BD291C = {
 			isa = PBXGroup;
 			children = (
+				82B679A118EE7DAF00F7A003 /* TableViewControllerb2.h */,
+				82B679A218EE7DAF00F7A003 /* TableViewControllerb2.m */,
 				82474C0B18CA957600BD291C /* MyFirstApplcation */,
 				82474C2A18CA957600BD291C /* MyFirstApplcationTests */,
 				82474C0418CA957600BD291C /* Frameworks */,
@@ -279,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82B679A318EE7DAF00F7A003 /* TableViewControllerb2.m in Sources */,
 				82B679A018EE7BB500F7A003 /* CCTableViewControllerbr2.m in Sources */,
 				82474C1618CA957600BD291C /* CCAppDelegate.m in Sources */,
 				82474C1218CA957600BD291C /* main.m in Sources */,

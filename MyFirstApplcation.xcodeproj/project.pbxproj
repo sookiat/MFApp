@@ -22,6 +22,7 @@
 		82474C2F18CA957600BD291C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 82474C2D18CA957600BD291C /* InfoPlist.strings */; };
 		82474C3118CA957600BD291C /* MyFirstApplcationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82474C3018CA957600BD291C /* MyFirstApplcationTests.m */; };
 		82474C3B18CA9EC900BD291C /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 82474C3A18CA9EC900BD291C /* images-2.jpeg */; };
+		82B6799418EE796300F7A003 /* CCTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B6799318EE796300F7A003 /* CCTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		82474C2E18CA957600BD291C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		82474C3018CA957600BD291C /* MyFirstApplcationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyFirstApplcationTests.m; sourceTree = "<group>"; };
 		82474C3A18CA9EC900BD291C /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpeg"; sourceTree = "<group>"; };
+		82B6799218EE796300F7A003 /* CCTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTableViewController.h; sourceTree = "<group>"; };
+		82B6799318EE796300F7A003 /* CCTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				82474C1418CA957600BD291C /* CCAppDelegate.h */,
 				82474C1518CA957600BD291C /* CCAppDelegate.m */,
 				82474C1718CA957600BD291C /* Main.storyboard */,
+				82B6799218EE796300F7A003 /* CCTableViewController.h */,
+				82B6799318EE796300F7A003 /* CCTableViewController.m */,
 				82474C1A18CA957600BD291C /* CCViewController.h */,
 				82474C1B18CA957600BD291C /* CCViewController.m */,
 				82474C1D18CA957600BD291C /* Images.xcassets */,
@@ -257,6 +262,7 @@
 				82474C1618CA957600BD291C /* CCAppDelegate.m in Sources */,
 				82474C1218CA957600BD291C /* main.m in Sources */,
 				82474C1C18CA957600BD291C /* CCViewController.m in Sources */,
+				82B6799418EE796300F7A003 /* CCTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -465,6 +471,7 @@
 				82474C3618CA957600BD291C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82474C3718CA957600BD291C /* Build configuration list for PBXNativeTarget "MyFirstApplcationTests" */ = {
 			isa = XCConfigurationList;
@@ -473,6 +480,7 @@
 				82474C3918CA957600BD291C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
